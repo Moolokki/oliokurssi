@@ -44,7 +44,7 @@ void calcDiv(float a, float b)
         cout<<"Jakaja ei saa olla nolla!"<<endl;
     } else {
         cout<<"caldDiv: Jaettuna = "<<fixed<<setprecision(2)<< result <<endl;
-        cout<<"--------------------------"<<endl;
+        cout<<"----------------------------"<<endl;
     }
 }
 
